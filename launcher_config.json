@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/barack3006/VikingsGlobal/releases/download/download-files/client-to-update.zip",
+	"newClientUrl" : "https://github.com/barack3006/VikingsGlobal/releases/download/NewTag/client-to-update.zip",
 	"clientExecutable": "Vikings.exe"
 }
